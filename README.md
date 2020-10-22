@@ -1,7 +1,7 @@
 ### Hi there I am Mohammad Fahad 👋
 
 
-- 🔭 I’m currently working on node.js
+
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with Job
