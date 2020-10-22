@@ -34,7 +34,7 @@
 <br />
 <br />
 <br />
-<img width="550px" alt="Mohammad Fahad Github Stats"  src="https://avatars3.githubusercontent.com/u/63115051?s=48&v=4"/> 
+<img width="550px" alt="Mohammad Fahad Github Stats"  src="https://avatars0.githubusercontent.com/u/63115051?s=460&u=c1eb0679735833518f3e9ca9b17e4f70fd263bc7&v=4"/> 
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&card_width=550)](https://github.com/mohammad-fahad)
 
