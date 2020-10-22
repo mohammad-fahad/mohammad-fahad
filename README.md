@@ -34,9 +34,9 @@
 <br />
 <br />
 <br />
-<!-- <img width="550px" alt="Mohammad Fahad Github Stats"  src="https://avatars3.githubusercontent.com/u/63115051?s=48&v=4"/> -->
+<img width="550px" alt="Mohammad Fahad Github Stats"  src="https://avatars3.githubusercontent.com/u/63115051?s=48&v=4"/> 
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/mohammad-fahad)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&card_width=550)](https://github.com/mohammad-fahad)
 
 
 <!-- [programming]: https://www.programming-hero.com/
