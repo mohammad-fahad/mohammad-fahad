@@ -34,7 +34,7 @@
 <br />
 <br />
 <br />
-<!-- <img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/> -->
+<!-- <img width="550px" alt="Mohammad Fahad Github Stats"  src="https://avatars3.githubusercontent.com/u/63115051?s=48&v=4"/> -->
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/mohammad-fahad)
 
