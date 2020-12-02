@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-fahad-92459b1b1/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad--fahad) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/simple.fahad/) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://blogs-mohammadfahad.medium.com/) 
+[![Medium Read](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://blogs-mohammadfahad.medium.com/) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13954171/mohammad-fahad) 
 
 <br />
@@ -42,9 +42,9 @@
 
 
 [programming]: https://www.programming-hero.com/
-[website]: https://www.mohammadfahad.com
-[twitter]: https://www.mohammadfahad.com
-[linkedin]: https://www.mohammadfahad.com
+[website]: https://portfolio-of-mohammadfahad.netlify.app/
+[twitter]: https://twitter.com/Mohamma52324377
+[linkedin]: https://www.linkedin.com/in/mohammad--fahad
 [webdevplaylist]: https://www.mohammadfahad.com
 [jsplaylist]: https://www.mohammadfahad.com
 [cssplaylist]: https://www.mohammadfahad.com
