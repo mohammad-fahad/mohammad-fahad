@@ -36,7 +36,8 @@
 <br />
 <br />
 <br />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammad-fahad)](https://github.com/anuraghazra/github-readme-stats)
+
+![Mohammad-Fahad's github stats](https://github-readme-stats.vercel.app/api?username=mohammad-fahad&show_icons=true&theme=radical)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&card_width=550)](https://github.com/mohammad-fahad)
 
