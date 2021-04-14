@@ -14,7 +14,7 @@
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mohammad.fahad.f/) 
 [![Medium Read](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://blogs-mohammadfahad.medium.com/) 
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13954171/mohammad-fahad) 
- [![YouTube Watch](https://www.youtube.com/channel/UCVavh_xp83uNPhLUzhJLWuQ)
+ [YouTube Channel](https://www.youtube.com/channel/UCVavh_xp83uNPhLUzhJLWuQ)
 
 <br />
 
