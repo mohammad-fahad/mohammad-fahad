@@ -4,7 +4,7 @@
 
 - 🌱 I’m a MERN Stack, React-Native and, Django developer 
 - 📫 How to reach me: mail.mohhammadfahad@mail.com
-- ⚡ Fun fact: I am a youtuber. 
+- ⚡ Fun fact: I have a youtube channel. 
 
 
 
