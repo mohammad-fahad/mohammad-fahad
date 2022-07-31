@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m a MERN Stack, React-Native and, Django developer 
+- 🌱 I’m a MERN Stack and React-Native. Currenty I'm working on a project using Monorepo and Nx with typescript. 
 - 📫 How to reach me: mail.mohhammadfahad@mail.com
 - ⚡ Fun fact: I have a youtube channel. 
 
