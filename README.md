@@ -1,8 +1,7 @@
 ### Hi there I am Mohammad Fahad 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
 <img src="https://komarev.com/ghpvc/?mohammad-fahad&style=flat-square&color=blue" alt=""/>
 
 
@@ -29,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad--fahad)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)(https://www.linkedin.com/in/mohammad--fahad)]
 --- 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -117,9 +118,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br />
 <br /> -->
 
-![Mohammad-Fahad's github stats](https://github-readme-stats.vercel.app/api?username=mohammad-fahad&show_icons=true&theme=radical)
+<!-- ![Mohammad-Fahad's github stats](https://github-readme-stats.vercel.app/api?username=mohammad-fahad&show_icons=true&theme=radical)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&card_width=550&show_icons=true&theme=radical)](https://github.com/mohammad-fahad)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&card_width=550&show_icons=true&theme=radical)](https://github.com/mohammad-fahad) -->
 
 <!-- 
 [programming]: https://www.programming-hero.com/
