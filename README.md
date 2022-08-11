@@ -22,7 +22,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I’m a MERN Stack and React-Native. Currenty I'm working on a project using Monorepo and Nx with typescript. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I’m a MERN Stack and React-Native develper currenty working on a project using Monorepo and Nx with typescript. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Dhaka, Bangladesh.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
