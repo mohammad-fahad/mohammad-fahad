@@ -1,5 +1,7 @@
 ### Hi there I am Mohammad Fahad 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 - 🌱 I’m a MERN Stack and React-Native. Currenty I'm working on a project using Monorepo and Nx with typescript. 
