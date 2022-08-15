@@ -14,15 +14,15 @@
 </div>
 </div>
 
-<img src="https://komarev.com/ghpvc/?mohammad-fahad&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?mohammad-fahad&style=flat-square&color=blue" alt="" />
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  height="300"/>
 </div>
 
 ### :man_technologist: About Me :
-I’m a MERN Stack and React-Native develper currenty working on a project using Monorepo and Nx with typescript. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Dhaka, Bangladesh.
+I’m a MERN Stack and React-Native develper currenty working on a project using NX Monorepo with Next.js and typescript, designing using Tailwindcss and Styled Components. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Dhaka, Bangladesh.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
 
