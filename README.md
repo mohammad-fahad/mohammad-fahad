@@ -22,13 +22,13 @@
 </div>
 
 ### :man_technologist: About Me :
-I’m a MERN Stack and React-Native develper currenty working on a project using NX Monorepo with Next.js and typescript, designing using Tailwindcss and Styled Components. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Dhaka, Bangladesh.
+I’m a MERN Stack and React-Native developer currently working on a project using NX Monorepo with Next.js and TypeScript, designing using Tailwindcss and Styled Components. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Dhaka, Bangladesh.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
+- :telescope: I’m a Software Engineer who contributes to the front end and back end of web and mobile applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)(https://www.linkedin.com/in/mohammad--fahad)]
 --- 
@@ -54,7 +54,7 @@ I’m a MERN Stack and React-Native develper currenty working on a project using
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammad-fahad&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-fahad)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
