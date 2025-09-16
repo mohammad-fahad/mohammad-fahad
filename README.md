@@ -68,10 +68,12 @@ I am a **Full Stack & React Native Developer** from Dhaka, Bangladesh 🌏, curr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=mohammad-fahad&theme=dark"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&layout=compact&theme=vision-friendly-dark"/>
-</div>
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-fahad)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
