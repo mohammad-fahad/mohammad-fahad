@@ -44,7 +44,7 @@ I am a **Full Stack & React Native Developer** from Dhaka, Bangladesh 🌏, curr
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg]" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/styledcomponents/styledcomponents-original.svg" title="Styled Components" alt="Styled Components" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
