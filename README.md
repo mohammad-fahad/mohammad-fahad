@@ -1,97 +1,73 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Mohammad Fahad</h1>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <h1>Mohammad Fahad</h1>
+  <p><b>Product-Focused Full Stack Engineer</b></p>
+  <p>SaaS Architecture · Multi-tenant Systems · Production Engineering</p>
 </div>
 
 <div align="center">
+  <a href="https://mohammadfahad.com">
+    <img src="https://img.shields.io/badge/Portfolio-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/mohammad--fahad">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCVavh_xp83uNPhLUzhJLWuQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://twitter.com/Mohamma52324377">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://github.com/mohammad-fahad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-<br>
+---
 
-<img src="https://komarev.com/ghpvc/?username=mohammad-fahad&style=flat-square&color=blue" alt="Profile Views" />
+## About Me
+
+I build scalable SaaS applications. My focus is on production-grade software architecture — multi-tenant systems, role-based access control, and end-to-end product ownership.
+
+Based in Dhaka, Bangladesh. 4+ years designing, building, and shipping full-stack products.
 
 ---
 
-## 🚀 About Me
-I am a **Full Stack & React Native Developer** from Dhaka, Bangladesh 🌏, currently building scalable apps using **NX Monorepo with Next.js & TypeScript**, designing with **Tailwind CSS** & **Styled Components**.  
+## Currently Building
 
-- 🌱 I love contributing to both **frontend & backend**.  
-- ✍️ Exploring **technical content writing**.  
-- ⚡ Passionate about solving problems on **GeeksforGeeks** and reading tech articles.  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad--fahad) or via email: `mail.mohhammadfahad@mail.com`.  
+**EduFlow** — A multi-tenant Institution Operating System SaaS. Serving educational institutions with unified academic, financial, and communication workflows. Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and Supabase.
+
+- Multi-tenant architecture with data isolation
+- 8-role hierarchical RBAC system
+- Comprehensive testing (unit, integration, E2E)
+- Security hardening and CI/CD pipeline
 
 ---
 
-## 🛠️ Skills & Tools
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [EduFlow](https://github.com/mohammad-fahad) | Multi-tenant SaaS for educational institutions | Next.js, TypeScript, Prisma, PostgreSQL, Supabase |
+| [Portfolio](https://mohammadfahad.com) | Portfolio with case studies and dark/light mode | Next.js, TailwindCSS |
+
+---
+
+## Technical Skills
+
+**Core:** Next.js · React · TypeScript · Node.js · JavaScript
+
+**Backend & Data:** Prisma · PostgreSQL · Supabase · REST APIs · Server Actions
+
+**SaaS Engineering:** Multi-tenancy · RBAC · Authentication & Authorization · API Security
+
+**Production:** Testing (Jest, RTL, Playwright) · CI/CD · Docker · Performance Optimization
+
+**Design:** TailwindCSS · Responsive Design · Component Architecture
+
+---
+
+## Contact
+
+- **Portfolio:** [mohammadfahad.com](https://mohammadfahad.com)
+- **Email:** mail.mohhammadfahad@mail.com
+- **LinkedIn:** [mohammad--fahad](https://www.linkedin.com/in/mohammad--fahad)
+
+---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/styledcomponents/styledcomponents-original.svg" title="Styled Components" alt="Styled Components" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <p>Building scalable SaaS, one commit at a time.</p>
 </div>
-
----
-
-## 💻 Projects Showcase
-
-> _Currently showcasing screenshots since projects are not live due to hosting issues._
-
-| Project | Tech Stack | Status |
-|---------|-----------|--------|
-| **NX Monorepo Dashboard** | Next.js, TypeScript, Tailwind | In Progress |
-| **React Native E-commerce App** | React Native, Redux, Firebase | Complete |
-| **Personal Portfolio** | Next.js, Styled Components | Live |
-
-> More projects available in my [GitHub Repos](https://github.com/mohammad-fahad)
-
----
-
-## 📊 GitHub Stats
-
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=mohammad-fahad)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-fahad&stats_format=bytes)
-
-
-
----
-
-## 🌟 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammad--fahad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Mohamma52324377">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCVavh_xp83uNPhLUzhJLWuQ">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  Made with ❤️ by Mohammad Fahad
-</p>
