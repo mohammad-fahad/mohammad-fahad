@@ -30,10 +30,19 @@ Based in Dhaka, Bangladesh. 4+ years designing, building, and shipping full-stac
 
 **EduFlow** — A multi-tenant Institution Operating System SaaS. Serving educational institutions with unified academic, financial, and communication workflows. Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and Supabase.
 
-- Multi-tenant architecture with data isolation
-- 8-role hierarchical RBAC system
-- Comprehensive testing (unit, integration, E2E)
-- Security hardening and CI/CD pipeline
+- 8-role hierarchical RBAC with tenant isolation
+- 1,200+ automated tests across unit, integration and API workflows
+- Production CI/CD pipeline with automated quality checks
+- Finance, attendance, communication and onboarding modules
+
+## Engineering Focus
+
+- Multi-tenant SaaS architecture
+- Role-based access control design
+- Secure authentication flows
+- Database modeling with Prisma/PostgreSQL
+- Scalable Next.js application architecture
+- Production reliability and testing
 
 ---
 
@@ -41,8 +50,8 @@ Based in Dhaka, Bangladesh. 4+ years designing, building, and shipping full-stac
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [EduFlow](https://github.com/mohammad-fahad) | Multi-tenant SaaS for educational institutions | Next.js, TypeScript, Prisma, PostgreSQL, Supabase |
-| [Portfolio](https://mohammadfahad.com) | Portfolio with case studies and dark/light mode | Next.js, TailwindCSS |
+| [EduFlow]([https://github.com/mohammad-fahad](https://edu-flow-one-pearl.vercel.app/home)) | Multi-tenant SaaS for educational institutions | Next.js, TypeScript, Prisma, PostgreSQL, Supabase |
+| [Portfolio]([https://mohammadfahad.com](https://portfolio-of-mohammadfahad.netlify.app/)) | Portfolio with case studies and dark/light mode | Next.js, TailwindCSS |
 
 ---
 
@@ -62,8 +71,8 @@ Based in Dhaka, Bangladesh. 4+ years designing, building, and shipping full-stac
 
 ## Contact
 
-- **Portfolio:** [mohammadfahad.com](https://mohammadfahad.com)
-- **Email:** mail.mohhammadfahad@mail.com
+- **Portfolio:** [mohammadfahad.com]([https://mohammadfahad.com](https://portfolio-of-mohammadfahad.netlify.app/))
+- **Email:** mail.mohammadfahad@gmail.com
 - **LinkedIn:** [mohammad--fahad](https://www.linkedin.com/in/mohammad--fahad)
 
 ---
