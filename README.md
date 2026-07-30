@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://mohammadfahad.com">
+  <a href="[https://mohammadfahad.com](https://portfolio-of-mohammadfahad.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad--fahad">
