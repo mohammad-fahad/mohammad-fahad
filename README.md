@@ -1,82 +1,77 @@
 <div align="center">
   <h1>Mohammad Fahad</h1>
-  <p><b>Product-Focused Full Stack Engineer</b></p>
-  <p>SaaS Architecture · Multi-tenant Systems · Production Engineering</p>
+  <p><b>AI-Native SaaS Product Delivery</b></p>
+  <p>Product Thinking · AI-Agent Orchestration · Full-Stack Delivery · Production Readiness</p>
+  <p>Dhaka, Bangladesh · Working with international teams</p>
 </div>
 
 <div align="center">
-  <a href="https://portfolio-of-mohammadfahad.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad--fahad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mohammad-fahad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://portfolio-of-mohammadfahad.netlify.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohammad--fahad">LinkedIn</a> ·
+  <a href="https://github.com/mohammad-fahad">GitHub</a>
 </div>
 
 ---
 
-## About Me
+## What I Do
 
-I build scalable SaaS applications. My focus is on production-grade software architecture — multi-tenant systems, role-based access control, and end-to-end product ownership.
+I help founders and small teams turn product requirements, prototypes, and AI-generated code into working software that can be tested, shipped, and maintained.
 
-Based in Dhaka, Bangladesh. 4+ years designing, building, and shipping full-stack products.
+I use AI coding agents as implementation accelerators. My role is to clarify the business problem, shape the product and technical approach, coordinate implementation, review decisions, verify acceptance criteria, and manage delivery through handover.
 
----
+I am not selling code generation. I focus on getting the right software outcome delivered.
 
-## Currently Building
+## Services
 
-**EduFlow** — A multi-tenant Institution Operating System SaaS. Serving educational institutions with unified academic, financial, and communication workflows. Built with Next.js App Router, TypeScript, Prisma, PostgreSQL, and Supabase.
+- **AI-assisted SaaS product delivery** — MVPs, product features, and iterative development.
+- **AI-built product rescue** — assess, debug, stabilize, test, and prepare existing applications for release.
+- **API and workflow integration** — connect business systems, services, webhooks, and data flows.
+- **Business applications and ERP workflows** — multi-tenant systems, role-based access, operational dashboards, and internal tools.
+- **Release readiness and handover** — acceptance criteria, verification, documentation, and deployment coordination.
 
-- 8-role hierarchical RBAC with tenant isolation
-- 1,200+ automated tests across unit, integration and API workflows
-- Production CI/CD pipeline with automated quality checks
-- Finance, attendance, communication and onboarding modules
+Engagements start with a clearly scoped milestone. I communicate assumptions, risks, progress, and what has actually been verified.
 
-## Engineering Focus
+## Selected Product Experience
 
-- Multi-tenant SaaS architecture
-- Role-based access control design
-- Secure authentication flows
-- Database modeling with Prisma/PostgreSQL
-- Scalable Next.js application architecture
-- Production reliability and testing
+### EduFlow — Multi-tenant Education ERP/SaaS
+Founder-led product development for an institution operations platform covering academic, admissions, communication, and accounting workflows.
 
----
+- Product requirements and workflow design across multiple institution types.
+- Multi-tenant architecture, role-based access control, and tenant-aware data boundaries.
+- AI-assisted implementation orchestration, technical review, testing, and release coordination.
+- Stack: Next.js, TypeScript, Prisma, PostgreSQL, Supabase, and Vercel.
 
-## Featured Projects
+EduFlow is an ongoing product. I distinguish implemented capabilities from commercial outcomes; I do not claim customer traction or ROI without evidence.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [EduFlow]([https://github.com/mohammad-fahad](https://edu-flow-one-pearl.vercel.app/home)) | Multi-tenant SaaS for educational institutions | Next.js, TypeScript, Prisma, PostgreSQL, Supabase |
-| [Portfolio]([https://mohammadfahad.com](https://portfolio-of-mohammadfahad.netlify.app/)) | Portfolio with case studies and dark/light mode | Next.js, TailwindCSS |
+### BeWeddy — US Product Team
+Worked with a US-based product team on a wedding-planning platform, including frontend development in a Next.js/Nx environment and collaboration across a distributed team.
 
----
+### Vertis Digital — Singapore Product Team
+Worked on a healthcare platform, contributing frontend implementation and responsive user-interface work.
 
-## Technical Skills
+### Aditya Birla Capital — Enterprise Web Platform
+Project experience involving migration of 22 product websites into a unified Sitecore Headless ecosystem. The published project case study reports an 80% performance improvement and 12-second faster page loading.
 
-**Core:** Next.js · React · TypeScript · Node.js · JavaScript
+## Delivery Approach
 
-**Backend & Data:** Prisma · PostgreSQL · Supabase · REST APIs · Server Actions
+1. Understand the business outcome and existing product.
+2. Define scope, acceptance criteria, constraints, and milestones.
+3. Select the appropriate stack and orchestrate AI-assisted implementation.
+4. Review changes and verify critical workflows with tests and practical checks.
+5. Deliver documented work, known limitations, and a clear handover.
 
-**SaaS Engineering:** Multi-tenancy · RBAC · Authentication & Authorization · API Security
+AI accelerates execution; it does not replace verification, communication, or accountability.
 
-**Production:** Testing (Jest, RTL, Playwright) · CI/CD · Docker · Performance Optimization
+## Core Technology
 
-**Design:** TailwindCSS · Responsive Design · Component Architecture
-
----
+**Product engineering:** Next.js, React, TypeScript, Node.js  
+**Data and backend:** PostgreSQL, Prisma, Supabase, REST APIs, webhooks  
+**SaaS foundations:** Multi-tenancy, RBAC, authentication, authorization, database architecture  
+**Delivery:** GitHub, automated testing, CI/CD, Vercel, AI coding-agent workflows
 
 ## Contact
 
-- **Portfolio:** [mohammadfahad.com]([https://mohammadfahad.com](https://portfolio-of-mohammadfahad.netlify.app/))
-- **Email:** mail.mohammadfahad@gmail.com
-- **LinkedIn:** [mohammad--fahad](https://www.linkedin.com/in/mohammad--fahad)
-
----
-
-<div align="center">
-  <p>Building scalable SaaS, one commit at a time.</p>
-</div>
+- Portfolio: https://portfolio-of-mohammadfahad.netlify.app
+- Email: mail.mohammadfahad@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammad--fahad
+- GitHub: https://github.com/mohammad-fahad
